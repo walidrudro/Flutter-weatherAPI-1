@@ -1,5 +1,5 @@
 ### Weather App using open weather map API
-![](https://raw.githubusercontent.com/walidrudro/Flutter-weatherAPI-1/master/Screenshot_1611601887.png)
+![](https://raw.githubusercontent.com/walidrudro/Flutter-weatherAPI-1/master/weatherApp1.gif)
 
 API Link: https://openweathermap.org/api
 
